@@ -10,9 +10,9 @@ function forLoop(array) {
   }
 }
 
-function whileLoop(n) {
+function whileLoop(25) {
   do {
-    let countdown = (n);
+    let countdown = 25;
   } while (countdown > 0) {
     console.log(--countdown);
   }
