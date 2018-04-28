@@ -11,6 +11,12 @@ function forLoop(array) {
   }
 }
 
+function whileLoop(n) {
+  do {
+    [loopBody];
+  } while ([condition]);
+}
+
 function doWhileLoop(array) {
   array.length > 0 && maybeTrue();
   return array;
