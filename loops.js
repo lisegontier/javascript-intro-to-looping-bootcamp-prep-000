@@ -6,4 +6,5 @@ function forLoop(array) {
     } else {
       console.log("I am ${i} stange loops.");
     }
+    return array;
 }
