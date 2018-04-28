@@ -1,4 +1,4 @@
-var i = 0;
+let i = 0;
 
 function forLoop(array) {
     for (let i = 0; i < 25; i++) {
